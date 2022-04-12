@@ -45,4 +45,4 @@ steps:
 
 
 # Push the custom image to Container Registry 
-images: ['gcr.io/qwiklabs-gcp-00-0bdc4266aeaf/lab-03-tfx-image:v5']
+images: ['gcr.io/qwiklabs-gcp-00-0bdc4266aeaf/lab-03-tfx-image:5']
